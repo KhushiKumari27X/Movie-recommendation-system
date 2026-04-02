@@ -17,7 +17,7 @@ A Machine Learning-based Movie Recommender System that suggests the **top 5 simi
 ##  Live Demo
 
 Click here to try the app   
- [Movie Recommender App](https://movie-recommendation-system-uf2tlcpuxebpusrzktxclp.streamlit.app)
+ [Movie Recommender App](https://movie-recommendation-system-uf2tlcpuxebpusrztkxclp.streamlit.app/)
 ##  Preview
 
 ### Sample 1
