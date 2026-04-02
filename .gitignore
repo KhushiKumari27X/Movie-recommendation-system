@@ -1,6 +1,6 @@
-venv
 venv/
 __pycache__/
 *.pkl
-*.gz
 .idea/
+!movie_dict.pkl
+!movies.pkl
