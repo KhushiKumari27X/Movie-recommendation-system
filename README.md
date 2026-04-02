@@ -13,6 +13,11 @@ A Machine Learning-based Movie Recommender System that suggests the **top 5 simi
 -  Fast and user-friendly interface
 
 ---
+
+##  Live Demo
+
+Click here to try the app   
+ [Movie Recommender App](https://movie-recommendation-system-uf2tlcpuxebpusrzktxclp.streamlit.app)
 ##  Preview
 
 ### Sample 1
@@ -41,13 +46,3 @@ The system recommends movies based on similarity scores calculated using:
 - Crew  
 
 These features are combined and processed using cosine similarity to find the most relevant movies.
-
----
-
-##  Run Locally
-
-```bash
-git clone https://github.com/KhushiKumari27X/Movie-recommendation-system.git
-cd Movie-recommendation-system
-pip install -r requirements.txt
-streamlit run App.py
